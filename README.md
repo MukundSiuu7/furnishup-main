@@ -1,4 +1,4 @@
-# �� FurnishUp - Modern Furniture E-commerce Platform
+#  FurnishUp - Modern Furniture E-commerce Platform
 
 ![FurnishUp Banner](assets/logo.svg)
 
