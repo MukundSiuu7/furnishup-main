@@ -6,6 +6,9 @@
 
 FurnishUp is a modern e-commerce platform specifically designed for furniture products. Built with Next.js and MongoDB, it offers a seamless shopping experience with features like real-time cart management, order tracking, and a responsive design.
 
+## 🌟 Website Link
+https://furnishup-eight.vercel.app/
+
 ## ✨ Features
 
 - 🛍️ **Product Management**
